@@ -1,0 +1,37 @@
+{
+    "49bf5290-434b-11ed-89f9-acde48001122": {
+        "name": "Adonalsium",
+        "email": "ado@brandosando.net",
+        "friends": [
+            "5f058bf6-434b-11ed-89f9-acde48001122"
+        ]
+    },
+    "49bf5452-434b-11ed-89f9-acde48001122": {
+        "name": "Vivenna",
+        "email": "viv@brandosando.net",
+        "age": 19,
+        "friends": []
+    },
+    "49bf5498-434b-11ed-89f9-acde48001122": {
+        "name": "Elend",
+        "email": "ele@brandosando.net",
+        "age": 22,
+        "friends": []
+    },
+    "49bf54ca-434b-11ed-89f9-acde48001122": {
+        "name": "Kaladin",
+        "email": "kal@brandosando.net",
+        "age": 34,
+        "friends": []
+    },
+    "5f058bf6-434b-11ed-89f9-acde48001122": {
+        "name": "Hoid",
+        "email": "wit@brandosando.net",
+        "friends": [
+            "49bf5452-434b-11ed-89f9-acde48001122",
+            "49bf5498-434b-11ed-89f9-acde48001122",
+            "49bf5290-434b-11ed-89f9-acde48001122",
+            "49bf54ca-434b-11ed-89f9-acde48001122"
+        ]
+    }
+}
